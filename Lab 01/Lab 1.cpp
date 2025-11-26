@@ -17,7 +17,7 @@ int main()
 	cout<<"*\t"<<"HSSC Marks:\t600\t\t\t\t*\n";
 	cout<<"*********************************************************"<<endl;
 	
-         // Question 2 
+         // Question 3
          
          
     int A,B;
@@ -38,3 +38,4 @@ int main()
 
 }	
 	
+
